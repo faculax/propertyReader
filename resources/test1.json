@@ -1,0 +1,14 @@
+{
+  "global": {
+    "CardShipmentScale": {
+      "shipmentScaleRegional": "SomeText1",
+      "shipmentScaleRegionalExplanation": "SomeText2"
+    },
+    "SomeOtherKey": {
+      "SomeOtherSubKey": "SomeOtherText5"
+    },
+    "SomeOtherKey2": {
+      "SomeOtherSubKe2": "SomeOtherText5"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "CardShipmentScale.shipmentScaleRegional": "SomeText1",
+  "CardShipmentScale.shipmentScaleRegionalExplanation": "SomeText2",
+  "CheckboxCard.DAY": "SomeText3",
+  "CheckboxCard.MONTH": "SomeText4",
+  "SomeOtherKey.SomeOtherSubKey": "SomeOtherText5"
+}
